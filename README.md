@@ -9,7 +9,7 @@
  
  
  ```terminal
- $ pip3 install selinium
+ $ pip3 install selenium
 ```
 Necessary imports:
 

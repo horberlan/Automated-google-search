@@ -1,4 +1,4 @@
-<h1 aling=""center> Selenium Python Bot </h1>
+<h1 aling="center"> Selenium Python Bot </h1>
 
 🤖 A simple Bot to access google and search for anything automated 🐍 
  <br>

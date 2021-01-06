@@ -1,6 +1,6 @@
 <h1 align="center"> Selenium Python Bot </h1>
 
-🤖 A simple Bot to access google and search for anything automated 🐍 
+<p align="center"> 🤖 A simple Bot to access google and search for anything automated 🐍 </p>
  <br>
 
  <br>

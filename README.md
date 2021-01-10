@@ -5,15 +5,15 @@
 
 
 
- <br>
- To install Selenium on Python3:
- <br>
+ <b>
+* To install Selenium on Python3:
+ <b>
  
  
  ```terminal
  $ pip3 install selenium
 ```
-Necessary imports:
+* Necessary imports:
 
 ```Python
  from time import sleep

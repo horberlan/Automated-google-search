@@ -4,10 +4,7 @@
  <br>
 
 
-
- <b>
 * To install Selenium on Python3:
- <b>
  
  
  ```terminal
